@@ -5,9 +5,10 @@
 }
 
 body {
-  margin: 60px auto;
-  max-width: 800px;
-  text-align: center;
+  margin: 0 auto;
+}
+#menu {
+  margin-top: 0;
 }
 h2 {
   font-size: 48px;
@@ -22,12 +23,7 @@ h3 {
   opacity: 0.7;
   margin: 0;
 }
-#homepage {
-  color: var(--primary-color);
-  text-align: center;
-  display: block;
-  margin-top: 60px;
-}
+
 .info {
   display: flex;
   margin-top: 40px;
